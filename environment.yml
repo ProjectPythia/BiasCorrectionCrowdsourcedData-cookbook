@@ -1,4 +1,4 @@
-name: biascorr
+name: biascorr-cookbook-dev
 channels:
   - conda-forge
 dependencies:
