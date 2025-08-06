@@ -6,6 +6,7 @@ dependencies:
   - pandas
   - geopandas
   - numpy
+  - h3
   - matplotlib
   - statsmodels
   - scikit-learn
