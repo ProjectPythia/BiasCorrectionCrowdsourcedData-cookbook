@@ -2,7 +2,7 @@ name: biascorr-cookbook-dev
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.11
   - pandas
   - numpy
   - matplotlib
