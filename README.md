@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# Bias Correction Crowdsourced Data Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
