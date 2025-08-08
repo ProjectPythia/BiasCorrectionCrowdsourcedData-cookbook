@@ -1,6 +1,14 @@
-thumbnail: thumbnail.png
+thumbnail: BiasCorrectionCrowdsourcedData-cookbook/thumbnails/biascorr_thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - transportation
+    - urban-analytics
+    - geospatial-analysis
   packages:
-    - samplepackage
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - scikit-learn
+    - folium
+

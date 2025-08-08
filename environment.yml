@@ -1,11 +1,15 @@
-name: biascorr
+name: biascorr-cookbook-dev
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - pandas
+  - geopandas
   - numpy
+  - h3
   - matplotlib
   - statsmodels
   - scikit-learn
   - jupyter
+  - mystmd
+  - jupyterlab-myst
